@@ -1,0 +1,7 @@
+C:\Users\Luiz\Documents\Localiza Bootcamp C#\DIO Projetos\CadastroSeries\CadastroSeries\bin\Debug\CadastroSeries.exe.config
+C:\Users\Luiz\Documents\Localiza Bootcamp C#\DIO Projetos\CadastroSeries\CadastroSeries\bin\Debug\CadastroSeries.exe
+C:\Users\Luiz\Documents\Localiza Bootcamp C#\DIO Projetos\CadastroSeries\CadastroSeries\bin\Debug\CadastroSeries.pdb
+C:\Users\Luiz\Documents\Localiza Bootcamp C#\DIO Projetos\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.csprojAssemblyReference.cache
+C:\Users\Luiz\Documents\Localiza Bootcamp C#\DIO Projetos\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\Localiza Bootcamp C#\DIO Projetos\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.exe
+C:\Users\Luiz\Documents\Localiza Bootcamp C#\DIO Projetos\CadastroSeries\CadastroSeries\obj\Debug\CadastroSeries.pdb
